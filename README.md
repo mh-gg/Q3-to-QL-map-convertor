@@ -1,5 +1,5 @@
-# Q3 to QL map converter
-
+# Q3 to QL map convertor
+#
 ### This is the order to convert maps...
 
 * 6 - xtra
@@ -10,6 +10,6 @@
 
 * 7 - exit
 
-* * - restart the program
+### restart Q3toQLmapconvertor
 
 * 2 - start convertor
