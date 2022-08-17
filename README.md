@@ -10,6 +10,6 @@
 
 * 7 - exit
 
-### restart Q3toQLmapconvertor
+### Now restart Q3toQLmapconvertor
 
 * 2 - start convertor
