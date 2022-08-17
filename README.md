@@ -1,4 +1,4 @@
-# Q3 to QL map convertor
+# Q3 to QL map converter
 #
 ### This is the order to convert maps...
 
