@@ -2,7 +2,7 @@
 #
 ### This is the order to convert maps...
 
-* 6 - xtra
+* 6 - extras
 
 * 1 - version checker
 
