@@ -1,4 +1,4 @@
-![Screenshot]https://github.com/mh-gg/Q3-to-QL-map-converter/blob/main/converter.jpg
+![Screenshot](https://github.com/mh-gg/Q3-to-QL-map-converter/blob/main/converter.jpg)
 # Q3 to QL map converter
 #
 ### This is the order to convert maps...
