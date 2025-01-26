@@ -1,5 +1,5 @@
 ![Screenshot](https://github.com/mh-gg/Q3-to-QL-map-converter/blob/main/converter.jpg)
-# Quake 3 to Quake Live map converter (Q3toQL map convertor)
+# Quake 3 to Quake Live map converter
 #
 ### This is the order to convert maps...
 
